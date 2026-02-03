@@ -2,71 +2,52 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Pranesh+J+S;AI+and+Data+Science+Engineer;Agentic+AI+%7C+RAG+Systems;FastAPI+%7C+Backend+%7C+AWS;Building+Enterprise+AI+Solutions" />
 </p>
 
+<h1 align="center">Pranesh J S</h1>
+<h3 align="center">AI & Data Science Engineer | Backend Developer</h3>
 
-## Hi, I'm Pranesh J S 👋  
+<p align="center">
+  Building secure, scalable AI-powered systems with a strong focus on backend engineering,
+  cloud deployment, and real-world problem solving.
+</p>
 
-🎓 B.Tech student in **Artificial Intelligence and Data Science** at  
-**Sri Krishna College of Engineering and Technology (SKCET)**  
+---
 
-💡 I specialize in building **secure, scalable web applications** and  
-**agentic AI / RAG systems** using Python, FastAPI, and cloud platforms.  
-I enjoy solving real-world problems by combining **AI, backend engineering, and data systems**.
+## 👋 About Me
+
+🎓 B.Tech student in **Artificial Intelligence and Data Science**  
+🏫 **Sri Krishna College of Engineering and Technology (SKCET)**  
+💡 Interested in **Agentic AI, RAG systems, backend APIs, and cloud-native applications**
+
+I enjoy designing **enterprise-ready AI solutions** by combining **Python, FastAPI, data pipelines, and cloud platforms**.
 
 ---
 
 ## 🚀 Technical Skills
 
-**Languages**  
+**Programming Languages**  
 - Python, C++, Java, JavaScript, SQL  
 
-**Frameworks & Backend**  
+**Backend & Frameworks**  
 - FastAPI, Spring Boot, React (Vite), Celery  
 - REST APIs, JWT Authentication, Asynchronous Processing  
+
+**AI & Data**  
+- Generative AI, RAG Systems, LangChain  
+- Scikit-learn, Model Evaluation, Data Processing  
 
 **Databases**  
 - MongoDB, MySQL, PostgreSQL (pgvector)  
 
-**AI & Machine Learning**  
-- Generative AI, RAG Systems, LangChain  
-- Scikit-learn, Model Evaluation, Data Processing  
-
 **Cloud & DevOps**  
-- AWS, Microsoft Azure  
-- Docker, Git, Linux  
-
----
-
-## 🛠️ Featured Projects
-
-### 🔹 Advanced Data Analysis Assistant (ADAA)
-🔗 **GitHub:** https://github.com/Pranesh-1905/ADAA-Project  
-
-- Built and deployed a **multi-agent AI-powered analytics platform** on AWS  
-- Designed **5 specialized AI agents** for data profiling, insight generation, visualization, and natural-language querying  
-- Engineered **FastAPI REST APIs** with **Celery-based asynchronous pipelines**, JWT authentication, and real-time job tracking  
-- Enabled secure dataset uploads, collaborative workspaces, and exportable reports (PDF / Excel)
-
-**Tech Stack:** FastAPI, Celery, React (Vite), MongoDB, AWS, JWT  
-
----
-
-### 🔹 Book2AI – Quiz & Q&A RAG Platform  
-🔗 **GitHub:** https://github.com/Pranesh-1905/Mcq-model  
-
-- Built a **full-stack Retrieval-Augmented Generation (RAG) system** for textbook ingestion and semantic search  
-- Implemented automated **MCQ generation** and real-time Q&A over large document collections  
-- Optimized embedding pipelines for **low-latency retrieval** and scalable learning workflows  
-
-**Tech Stack:** FastAPI, React.js, PostgreSQL (pgvector), LLMs  
+- AWS, Microsoft Azure, Docker, Git, Linux  
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **1st Prize Winner** – National-level Hackathon  
-  *Smart Hospital AI System* (50+ teams)  
-- 💻 Solved **400+ LeetCode problems**, demonstrating strong DSA and problem-solving skills  
-- 🥈 Multiple **2nd prizes** in problem solving, technical quiz, and UI/UX events  
+- 🥇 **1st Prize** – National-level Hackathon (Smart Hospital AI System)
+- 💻 Solved **400+ LeetCode problems**
+- 🥈 Multiple second prizes in technical and problem-solving events  
 
 ---
 
@@ -81,8 +62,7 @@ I enjoy solving real-world problems by combining **AI, backend engineering, and 
 
 ## 📫 Connect With Me
 
-- 💼 **LinkedIn:** https://linkedin.com/in/pranesh-j-s-136495292  
-- 🌐 **Portfolio:** https://pranesh-1905.github.io/portfolio  
-- 💻 **GitHub:** https://github.com/Pranesh-1905  
-
-⭐ Feel free to explore my repositories and projects!
+- 💼 LinkedIn: https://linkedin.com/in/pranesh-j-s-136495292  
+- 🌐 Portfolio: https://pranesh-1905.github.io/portfolio
+- 📄 Resume: https://drive.google.com/file/d/1dEbRe69SJ6fdkBQGx458gnMIqKKA1jPT/view?usp=sharing
+⭐ Feel free to explore my repositories and projects.
