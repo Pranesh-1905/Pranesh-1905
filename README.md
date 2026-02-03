@@ -1,15 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code&
-    size=26&
-    pause=1000&
-    color=0A66C2&
-    center=true&
-    vCenter=true&
-    width=900&
-    lines=Pranesh+J+S;AI+%26+Data+Science+Engineer;Agentic+AI+%7C+RAG+Systems;FastAPI+%7C+Backend+%7C+AWS;Building+Enterprise-Ready+AI+Solutions" 
-  alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Pranesh+J+S;AI+and+Data+Science+Engineer;Agentic+AI+%7C+RAG+Systems;FastAPI+%7C+Backend+%7C+AWS;Building+Enterprise+AI+Solutions" />
 </p>
+
 
 ## Hi, I'm Pranesh J S 👋  
 
