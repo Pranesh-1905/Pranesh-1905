@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=0A66C2&center=true&vCenter=true&width=900&lines=Pranesh+J+S;AI+and+Data+Science+Engineer;Agentic+AI+%7C+RAG+Systems;FastAPI+%7C+Backend+%7C+AWS;Building+Enterprise+AI+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=B8A99A&center=true&vCenter=true&width=900&lines=AI+and+Data+Science+Engineer;Agentic+AI+%7C+RAG+Systems;FastAPI+%7C+Backend+%7C+AWS;Building+Enterprise+AI+Solutions" />
 </p>
 
 <h1 align="center">Pranesh J S</h1>
@@ -42,7 +42,6 @@ I enjoy designing **enterprise-ready AI solutions** by combining **Python, FastA
 - AWS, Microsoft Azure, Docker, Git, Linux  
 
 ---
-
 ## 🏆 Achievements
 
 - 🥇 **1st Prize** – National-level Hackathon (Smart Hospital AI System)
